@@ -15,11 +15,12 @@ public class Testycopy {
 		int[] copyto = new int[8];
 		System.arraycopy(copyfrom, 1, copyto, 0, 7);
 
-		for (int i = 0; i < copyto.length; i++) {
+		for (int i = 0; i <=7; i++) {
 
-			System.out.print( copyfrom[i]);
+			System.out.println( copyfrom[i]);
 			
 
 		}
 
 	}
+}

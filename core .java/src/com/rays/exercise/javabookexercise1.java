@@ -19,7 +19,6 @@ public static void main(String[] args) {
 	
 	
 //	Q2 - fint the smallest of two mno. using conditional operation
-	
 //	 int a = 1; 
 //	 int b = 3000;
 //	 
@@ -237,7 +236,7 @@ public static void main(String[] args) {
 //	Q 16-Write a method that takes an integer
 //	array as a parameter and finds the  second  largest of the array.
 //	
-	
+/*	
 	int[] arr = {10,1000,3,4,9,30,2,200,1100,100,300,900};
 	int min = 0;
 	int max = 0;
@@ -246,15 +245,17 @@ public static void main(String[] args) {
 			min = max; 
 	max = arr[i];}
 	
-if(min<arr[i]&&max>arr[i]) {
+if(mi**-+n<arr[i]&&max>arr[i]) {
 	min = arr[i];
 }}
 	System.out.println("second largest" +"=" + min);
+	*/
 	
 	
-	
-	
-	
+	//Q 17 --Two integer arrays A and B Have n element respectively .A has all 
+//	 the element that are in B ,But   B has one missing element .
+//	write a function that takes an array A and B as 
+//	  as Input and find the missing element in the most optimize manner
 	
 	
 	
