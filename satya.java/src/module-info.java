@@ -1,0 +1,25 @@
+module satya.java {
+}
+
+
+
+
+Sout
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
