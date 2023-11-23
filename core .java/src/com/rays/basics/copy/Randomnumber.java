@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	for (int i = 1; i <=5 ; i++) {
 		
 		int rd=(int)(Math.random()*range);
-		
+		a
 		System.out.println(rd);
 		
 	}

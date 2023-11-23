@@ -2,7 +2,7 @@ package com.rays.basics;
 
 public class Randomnumber {
 public static void main(String[] args) {
-	int max=1000;
+	int max=10;
 	int min=1;
 	int range=max-min;
 	

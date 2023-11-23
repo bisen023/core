@@ -2,7 +2,7 @@ package com.rays.practice;
 
 public class palindromeno {
 public static void main(String[] args) {
-	  int number =121;
+	  int number =1221;
 	
 	int r = 0;
 	int n =number;
